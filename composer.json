@@ -1,11 +1,11 @@
 {
-    "name": "ammont/finglify",
-    "description": "Translates farsi/persian to finglish/pinglish.",
+    "name": "EleRam/finglify",
+    "description": "Very simple translitration from farsi/persian to finglish/pinglish.",
     "license": "MIT",
     "authors": [
         {
-            "name": "Amir Montazer",
-            "email": "ammontazer@gmail.com"
+            "name": "Ramin Firooz",
+            "email": "eleram.com@gmail.com"
         }
     ],
     "minimum-stability": "dev",
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ammont\\Finglify\\": "src"
+            "EleRam\\Finglify\\": "src"
         }
     }
 }
