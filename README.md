@@ -19,7 +19,7 @@ Installation
 You can install EleRam/fa-slugify through [Composer](https://getcomposer.org):
 
 ```shell
-$ composer require EleRam/finglify:dev-master
+$ composer require eleram/finglify:dev-master
 ```
 
 
