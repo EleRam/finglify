@@ -1,7 +1,7 @@
-ammont/finglify
+EleRam/finglify forked from: ammont/finglify
 =============
 
-> Translates Farsi/Persian to Finglish/Pinglish for developement purposes.
+> Translitration Farsi/Persian to Finglish/Pinglish for developement purposes.
 
 
 Features
@@ -16,10 +16,10 @@ Features
 Installation
 ------------
 
-You can install ammont/fa-slugify through [Composer](https://getcomposer.org):
+You can install EleRam/fa-slugify through [Composer](https://getcomposer.org):
 
 ```shell
-$ composer require ammont/finglify:dev-master
+$ composer require EleRam/finglify:dev-master
 ```
 
 
@@ -29,7 +29,7 @@ Usage
 Translate a persian string:
 
 ```php
-use Ammont\Finglify\Finglify;
+use EleRam\Finglify\Finglify;
 
 $finglify = new Finglify();
 echo $finglify->translate('سلام دنیا');
@@ -55,7 +55,7 @@ Changelog
 Authors
 -------
 
-- [Amir Montazer](https://github.com/ammont)
+- [Ramin Firooz](https://github.com/EleRam)
 
 
 
@@ -74,7 +74,7 @@ License
 
 The MIT License (MIT)
 
-Copyright (c) 2012-2014 Amir Montazer
+Copyright (c) 2012-2014 Ramin Firooz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
 documentation files (the "Software"), to deal in the Software without restriction, including without limitation the
