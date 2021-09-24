@@ -1,15 +1,16 @@
 <?php
 
 /**
- * This file is part of ammont/finglify.
+ * This file is part of eleram/finglify.
  *
  * (c) Amir Montazer <ammontazer@gmail.com>
+ *     Ramin Firooz <eleram.com@gmail.com>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
  */
 
-namespace Ammont\Finglify;
+namespace EleRam\Finglify;
 
 /**
  * Finglify
