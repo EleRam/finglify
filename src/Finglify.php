@@ -86,9 +86,9 @@ class Finglify {
 
     public function translate($string)
     {
-        $words = $this->parseWordsFromFile();
+        // $words = $this->parseWordsFromFile();
 
-        $string = strtr($string, $words);
+        // $string = strtr($string, $words);
 
         foreach ($this->rules as $rule)
         {
