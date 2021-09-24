@@ -1,7 +1,7 @@
 EleRam/finglify forked from: ammont/finglify
 =============
 
-> Translitration Farsi/Persian to Finglish/Pinglish for developement purposes.
+> Transliteration Farsi/Persian to Finglish/Pinglish for developement purposes.
 
 
 Features
