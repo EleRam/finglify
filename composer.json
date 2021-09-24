@@ -1,6 +1,6 @@
 {
     "name": "eleram/finglify",
-    "description": "Very simple translitration from farsi/persian to finglish/pinglish.",
+    "description": "Very simple transliteration from farsi/persian to finglish/pinglish.",
     "license": "MIT",
     "authors": [
         {
